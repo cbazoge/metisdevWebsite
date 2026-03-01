@@ -520,3 +520,10 @@ body {
 .legal-section a:hover {
     color: var(--color-accent-hover);
 }
+
+.legal-section h3 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 24px 0 8px;
+    color: var(--color-text);
+}
