@@ -225,7 +225,7 @@ body {
 .app-icon {
     width: 200px;
     height: 200px;
-    border-radius: 40px;
+    border-radius: 22.37%;
     box-shadow: 0 25px 80px rgba(99, 102, 241, 0.3);
 }
 
@@ -406,7 +406,7 @@ body {
     .app-icon {
         width: 160px;
         height: 160px;
-        border-radius: 32px;
+        border-radius: 22.37%;
     }
 
     .footer-content {
